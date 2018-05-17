@@ -1,1 +1,1 @@
-"#Multi-GPU-Traing" 
+"#Multi-GPU-Training" 
