@@ -1,6 +1,7 @@
 # Multi-GPU-Training
 
 To do: 
+       
        # Replace QueueRunner and Feeddict with Dataset Iterator
        
        # Distributed Training:
